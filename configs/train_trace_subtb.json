@@ -1,0 +1,11 @@
+{
+    "comment_1": "-------------training-related--------------",
+    "train_size": 1600,
+    "data_path": "/data/db/table/",
+    "train_sets": "SubTableBank",
+    "mixratio": [1],
+    "comment_2": "-------------evalution-related-------------",
+    "eval_set" : "SubTableBank",
+    "canvas_size": 1600,
+    "thresholds": [0.3, 0.2]
+}

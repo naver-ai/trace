@@ -1,0 +1,5 @@
+{
+    "canvas_size": 1600,
+    "mag_ratio": 10,
+    "thresholds": [0.3, 0.2]
+}

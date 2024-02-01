@@ -1,0 +1,34 @@
+*.pyc
+*.swp
+.vscode
+.idea
+*.mat
+*.pkl
+*.pth
+runs*/
+logs/
+core.*
+eval*/
+result*/
+result*
+logs*/
+weight*/
+crowd_*/
+res_*
+best_model/
+web*/
+pgt*/
+
+# temp
+flagged/
+notebook/
+
+# api-related
+samples/
+common/
+darw.py
+
+# evalution-related
+dataset-tools/
+
+**/.ipynb_checkpoints/
