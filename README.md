@@ -14,7 +14,7 @@ The official implementation of [TRACE](https://arxiv.org/abs/2305.00630), a tabl
 ## Getting started
 - Clone the repo with submodules
 ```bash
-git clone --recurse-submodules https://github.com/clovaai/trace.git
+git clone --recurse-submodules https://github.com/naver-ai/trace.git
 ```
 
 - Install dependencies
