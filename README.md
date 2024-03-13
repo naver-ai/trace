@@ -5,16 +5,16 @@ The official implementation of [TRACE](https://arxiv.org/abs/2305.00630), a tabl
 
 ## Updates
 
-**_2024-02-01_** First commit. We released our code, model weights, dataset, and a new evaluation metric for end-to-end assessment.
+**_2024-03-13_** First commit. We released our code, model weights, dataset, and a new evaluation metric for end-to-end assessment.
 
 ## Requirements
 - Python: >=3.7
 - PyTorch: >=1.13.1
 
 ## Getting started
-- Clone the repo
+- Clone the repo with submodules
 ```bash
-git clone https://github.com/clovaai/trace.git
+git clone --recurse-submodules https://github.com/clovaai/trace.git
 ```
 
 - Install dependencies
